@@ -36,42 +36,13 @@
 
 <!-- About Me Section -->
 <h2 align="center" >✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩</h2>
-  
-<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 
-<!-- ```javascript
-const fahadshuvo33 = {
-    code: ["Python", "JavaScript", "TypeScript", "Java"],
-    technologies: {
-        frontend: ["Vue.js (with TypeScript)", "Svelte", "React", "Tailwind CSS"],
-        backend: ["Django", "aiohttp", "FastAPI", "Node.js"],
-        database: ["PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "CI/CD", "Linux (Fedora)", "Nginx"],
-        tools: ["Swagger", "GraphQL", "WebSockets"]
-    },
-    currentlyWorking: [
-        "🎉 Mitnity – Event management platform with Django + Vue",
-        "🤖 GitScope Bot – A Telegram bot to see public repo and profile informations",
-        "🛍️ Hal-Khata – An Android app for Store management with AI Voice",
-        "🚚 Cp Express – An Android app for Delivery Service"
-    ],
-    interests: ["Anime & Manhwa", "Movies", "Casual Gaming"],
-    currentFocus: "Starting my own startup as a solo dev 🚀",
-    funFact: "I sometimes spend more time fixing my Linux setup than actually coding 😅",
-    motto: "Keep it simple, keep it fun ✨",
-};
-
-``` -->
 <p align="center">
   <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=00ff00&text=Fahad%20Hossain%20%7C%20Hacker%20Console&fontColor=0d1117&fontSize=25&animation=fadeIn&fontAlignY=55" />
-</p>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/main/terminal.png" alt="Matrix Terminal Profile" width="100%">
+  <img src="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/main/terminal.jpg" alt="Matrix Terminal Profile" width="100%">
 </div>
 
 <br><br>
