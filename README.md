@@ -1,6 +1,9 @@
 <!-- Header Animation -->
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;FAHAD HOSSAIN;F.A.H.A.D H.O.S.S.A.I.N" alt="Typing SVG" />
+<!-- Animated Name Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;ফাহাদ+হোসেন" alt="Typing SVG" />
+  </a>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+realm" alt="Welcome" />
   </p>
