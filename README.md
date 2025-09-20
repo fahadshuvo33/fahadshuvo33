@@ -39,7 +39,7 @@
   
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```javascript
+<!-- ```javascript
 const fahadshuvo33 = {
     code: ["Python", "JavaScript", "TypeScript", "Java"],
     technologies: {
@@ -61,8 +61,35 @@ const fahadshuvo33 = {
     motto: "Keep it simple, keep it fun ✨",
 };
 
+``` -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_FOCUS-Starting_My_Own_Startup-00ff00?style=for-the-badge&labelColor=0d1117" />
+</div>
 
-```
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Tech Stack</h3>
+      <b>Languages:</b> Python • JavaScript • TypeScript • Java<br><br>
+      <b>Frontend:</b> Vue.js • Svelte • React • Tailwind CSS<br><br>
+      <b>Backend:</b> Django • FastAPI • Node.js • aiohttp<br><br>
+      <b>Database:</b> PostgreSQL • MongoDB • Redis
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Current Projects</h3>
+      🎉 <b>Mitnity</b> - Event Management Platform<br><br>
+      🤖 <b>GitScope Bot</b> - Telegram Repo Explorer<br><br>
+      🛍️ <b>Hal-Khata</b> - AI Voice Store Management<br><br>
+      🚚 <b>Cp Express</b> - Delivery Service App
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💡_Fun_Fact-I_spend_more_time_fixing_Linux_than_coding_😅-ff6f61?style=flat-square&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/✨_Motto-Keep_it_simple,_keep_it_fun-00b4d8?style=flat-square&labelColor=0d1117" />
+</div>
 
 <br><br>
 <!-- Tech Stack -->
@@ -83,9 +110,7 @@ const fahadshuvo33 = {
 <!-- GitHub Stats -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshuvo33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&langs_count=8" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" /> -->
-  <img height="180em" src="  https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=dark&background=0d1117&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
 </div>
 <br>
 
@@ -147,4 +172,19 @@ const fahadshuvo33 = {
 </p>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer&animation=twinkling" width="100%" />
+markdown
+
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=400&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Always+open+to+collaborate;💬+Let's+connect+and+build!" alt="Typing SVG" />
+  
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░▀█▀░█░█░█▀█░█▀█░█░█░░░█░█░█▀█░█░█░█░░░
+░░█░░█▀█░█▀█░█░█░█▀▄░░░░█░░█░█░█░█░▀░░░
+░░▀░░▀░▀░▀░▀░▀░▀░▀░▀░░░▀▀▀░▀▀▀░▀▀▀░▀░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+text
+
+</div>
