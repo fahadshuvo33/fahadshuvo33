@@ -77,17 +77,15 @@ const fahadshuvo33 = {
 
 
 <!-- GitHub Stats -->
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/📊_GitHub_Stats_&_Analytics_📊-0d1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0d1117&color=0d1117" width="100%" height="40"/>
-  <br><br>
-</div>
-  
 
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐆𝐢𝐭𝐇𝐮𝐛_𝐒𝐭𝐚𝐭𝐬_&_𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬▁▂▃▅▆▓▒░✩</h2>
+  
 <!-- GitHub Stats -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshuvo33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" /> -->
+  <img height="180em" src="  https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=dark&background=0d1117&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" />
+
 </div>
 <br>
 
