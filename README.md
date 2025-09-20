@@ -1,11 +1,11 @@
 <!-- Header Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=fahadshuvo33&fontSize=45&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20digital%20realm&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Fahad%20Hossain&fontSize=45&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20digital%20realm&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Code+Architect;Digital+Creator;System+Breaker;Bug+Hunter;Coffee+Powered+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+Vue.js+Expert;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover" alt="Typing SVG" />
 </p>
 
 <!-- Matrix Rain GIF -->
@@ -31,23 +31,30 @@
 
 ```javascript
 const fahadshuvo33 = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java", "TypeScript"],
+    code: ["Python", "JavaScript", "TypeScript", "Java"],
     technologies: {
-        frontend: ["React", "Vue", "Angular", "Next.js"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
-        database: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "AWS", "CI/CD", "Kubernetes"]
+        frontend: ["Vue.js (with TypeScript)", "Svelte", "React", "Tailwind CSS"],
+        backend: ["Django", "aiohttp", "FastAPI", "Node.js"],
+        database: ["PostgreSQL", "MongoDB", "Redis"],
+        devOps: ["Docker", "CI/CD", "Linux (Fedora)", "Nginx"],
+        tools: ["Swagger", "GraphQL", "WebSockets"]
     },
-    currentFocus: "Building scalable applications",
-    funFact: "I debug with console.log and I'm proud of it!"
+    currentlyWorking: [
+        "🎉 Mitnity – Event management platform with Django + Vue",
+        "🤖 GitScope Bot – A Telegram bot to see public repo and profile informations",
+        "🛍️ Hal-Khata – An Android app for Store management with AI Voice",
+        "🚚 Cp Express – An Android app for Delivery Service"
+    ],
+    interests: ["Anime & Manhwa", "Movies", "Casual Gaming"],
+    currentFocus: "Starting my own startup as a solo dev 🚀",
+    funFact: "I sometimes spend more time fixing my Linux setup than actually coding 😅",
+    motto: "Keep it simple, keep it fun ✨",
 };
+
+
 ```
 
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
 <!-- Tech Stack -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px">
@@ -138,11 +145,11 @@ const fahadshuvo33 = {
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fahadshuvo33">
+  <a href="https://linkedin.com/in/fahad-hossain-8b162b182/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/fahadshuvo33">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://t.me/fahadshuvo">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:fahadshuvo33@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
