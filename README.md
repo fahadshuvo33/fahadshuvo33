@@ -35,11 +35,10 @@
 
 
 <!-- About Me Section -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px">
-  About Me
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px">
-</h2>
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -70,11 +69,10 @@ const fahadshuvo33 = {
 
 <br><br>
 <!-- Tech Stack -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px">
-  Tech Stack & Tools
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px">
-</h2>
+<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <!-- Animated Skills -->
 <p align="center">
@@ -84,11 +82,10 @@ const fahadshuvo33 = {
 
 
 <!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px">
-  GitHub Stats & Analytics
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px">
-</h2>
+<h2 align="center">📊 GitHub Stats & Analytics 📊</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <!-- Streak Stats -->
 <div align="center">
@@ -104,22 +101,20 @@ const fahadshuvo33 = {
 </div>
 
 <!-- Activity Graph -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px">
-  Contribution Graph
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30px">
-</h2>
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadshuvo33&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- Snake Animation -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30px">
-  Contribution Snake
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30px">
-</h2>
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <p align="center">
   <picture>
@@ -130,33 +125,30 @@ const fahadshuvo33 = {
 </p>
 
 <!-- Trophy Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="25px">
-  GitHub Trophies
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="25px">
-</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahadshuvo33&theme=matrix&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" />
 </p>
 
 <!-- Random Dev Quote -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="25px">
-  Random Dev Quote
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="25px">
-</h2>
+<h2 align="center">💡 Random Dev Quote 💡</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 <!-- Connect Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px">
-  Let's Connect
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px">
-</h2>
+<h2 align="center">🤝 Let's Connect 🤝</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/fahad-hossain-8b162b182/">
