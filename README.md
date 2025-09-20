@@ -84,10 +84,8 @@ const fahadshuvo33 = {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- Streak Stats -->
-<!-- Streak Stats -->
-<!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fahadshuvo33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=dark&background=0d1117&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
