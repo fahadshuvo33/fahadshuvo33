@@ -37,7 +37,7 @@
 <!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -71,7 +71,7 @@ const fahadshuvo33 = {
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <!-- Animated Skills -->
@@ -84,12 +84,12 @@ const fahadshuvo33 = {
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats & Analytics 📊</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fahadshuvo33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -103,7 +103,7 @@ const fahadshuvo33 = {
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ const fahadshuvo33 = {
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ const fahadshuvo33 = {
 <!-- Trophy Section -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ const fahadshuvo33 = {
 <!-- Random Dev Quote -->
 <h2 align="center">💡 Random Dev Quote 💡</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ const fahadshuvo33 = {
 <!-- Connect Section -->
 <h2 align="center">🤝 Let's Connect 🤝</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 </p>
 
 <p align="center">
