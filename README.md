@@ -36,7 +36,7 @@
 
 <!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -68,7 +68,7 @@ const fahadshuvo33 = {
 <br><br>
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Animated Skills -->
 <p align="center">
@@ -79,12 +79,10 @@ const fahadshuvo33 = {
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats & Analytics 📊</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fahadshuvo33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
 
 <br>
 
@@ -96,7 +94,7 @@ const fahadshuvo33 = {
 
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadshuvo33&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
@@ -104,7 +102,7 @@ const fahadshuvo33 = {
 
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <picture>
@@ -116,7 +114,7 @@ const fahadshuvo33 = {
 
 <!-- Trophy Section -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahadshuvo33&theme=matrix&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" />
@@ -124,7 +122,7 @@ const fahadshuvo33 = {
 
 <!-- Random Dev Quote -->
 <h2 align="center">💡 Random Dev Quote 💡</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
@@ -132,7 +130,7 @@ const fahadshuvo33 = {
 
 <!-- Connect Section -->
 <h2 align="center">🤝 Let's Connect 🤝</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <a href="https://linkedin.com/in/fahad-hossain-8b162b182/">
