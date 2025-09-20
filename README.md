@@ -36,8 +36,12 @@
 
 <!-- About Me Section -->
 <p align="center">
-  <font size="8"✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩</font>
+  <font size="7"✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩</font>
 </p>
+<p align="center" style="font-size:40px;">
+  ✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩
+</p>
+<h1 align="center" style="border-bottom: none;">▀▄▀▄▀▄𝓐𝓫𝓸𝓾𝓽 𝓜𝓮▄▀▄▀▄▀</h1>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
