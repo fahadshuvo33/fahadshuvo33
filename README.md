@@ -8,7 +8,7 @@
 
 <!-- Matrix Rain GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" height="5"/>
 </p>
 
 <!-- Profile Stats -->
@@ -79,21 +79,33 @@ const fahadshuvo33 = {
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=📊+GitHub+Stats+%26+Analytics+📊" alt="GitHub Stats & Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=📊+GitHub+Stats+%26+Analytics+📊" />
 </p>
+<!-- Create a reusable pattern -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF00&text=📊%20GitHub%20Stats%20%26%20Analytics%20📊&height=45&fontSize=25&desc=&descAlignY=0&descAlign=50&fontAlignY=50&animation=twinkling" />
+</p>
+<!-- For each title, just change the text -->
+<p align="center">
+  <img src="https://svg.demolab.com/badge/📊%20GitHub%20Stats%20%26%20Analytics%20📊?size=30&duration=2000&color=00FF00" />
+</p>
+<div align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=⚡+GitHub+Stats+%26+Analytics+⚡" alt="Title" /></a>
+</div>
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/📊_GitHub_Stats_&_Analytics_📊-0d1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0d1117&color=0d1117" width="100%" height="40"/>
+  <br><br>
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshuvo33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
 </div>
 <br>
-<!-- Contribution Calendar -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/00ff00/fahadshuvo33" alt="GitHub Contribution Calendar" />
-</div>
-<br>
+
 
 
 <!-- Activity Graph -->
