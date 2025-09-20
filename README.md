@@ -3,12 +3,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%2B+Vue.js+Expert;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;Django+%2B+Vue.js+Expert;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover" alt="Typing SVG" />
 </p>
 
 <!-- Matrix Rain GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <!-- Profile Stats -->
@@ -78,7 +78,7 @@ const fahadshuvo33 = {
 
 <!-- Animated Skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,svelte,nodejs,django,fastapi,flask,mongodb,postgres,redis,docker,aws,git,vscode,linux,bash,html,css,tailwind,mysql,sqlite,firebase,graphql,postman,github,gitlab&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,svelte,nodejs,django,fastapi,flask,mongodb,postgres,redis,docker,aws,git,vscode,linux,bash,html,css,tailwind,mysql,sqlite,firebase,graphql,postman,github,,powershell,gitlab&theme=dark&perline=8" />
 </p>
 
 
