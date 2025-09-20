@@ -78,11 +78,16 @@ const fahadshuvo33 = {
 
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats & Analytics 📊</h2>
+<p align="center">
+  <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=📊+GitHub+Stats+%26+Analytics+📊" alt="GitHub Stats & Analytics" />
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshuvo33&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br>
 
