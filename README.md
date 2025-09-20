@@ -3,9 +3,8 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="#">
-    <img height="40" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Full+Stack+Developer;Django+Developer;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover;Vibe+Coder" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=40&text=%20&animation=twinkling" width="700">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=25&lines=Full+Stack+Developer;Django+Developer;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover;Vibe+Coder" alt="Typing SVG" style="margin-top: -40px" />
 </div>
 
 <!-- Matrix Rain GIF -->
