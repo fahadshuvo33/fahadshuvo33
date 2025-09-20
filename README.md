@@ -2,9 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=𝔽𝕒𝕙𝕒𝕕%20ℍ𝕠𝕤𝕤𝕒𝕚𝕟&fontSize=45&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20digital%20realm&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;Django+Developer;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover;Vibe+Coder" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+Developer;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+and+Coding+Lover;Vibe+Coder" />
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <!-- Matrix Rain GIF -->
 <p align="center">
@@ -78,7 +82,7 @@ const fahadshuvo33 = {
 
 <!-- Animated Skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,svelte,nodejs,django,fastapi,flask,mongodb,postgres,redis,docker,aws,git,vscode,linux,bash,html,css,tailwind,mysql,sqlite,firebase,graphql,postman,github,,powershell,gitlab&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,svelte,nodejs,django,fastapi,flask,mongodb,postgres,redis,docker,aws,git,vscode,linux,bash,html,css,tailwind,mysql,sqlite,firebase,graphql,postman,github,kubernetes,powershell,gitlab&theme=dark&perline=8" />
 </p>
 
 
