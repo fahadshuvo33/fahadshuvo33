@@ -13,25 +13,26 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadshuvo33&color=ff00ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fahadshuvo33&color=ff007f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/fahadshuvo33?label=Followers&style=flat-square&color=00ffff&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/fahadshuvo33?label=Followers&style=flat-square&color=00e5ff&labelColor=0d1117" alt="Followers" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=flat-square&color=ff00ff&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=flat-square&color=9d4edd&labelColor=0d1117" alt="Stars" />
 </p>
 
 <!-- Professional Status -->
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/📍_Location-Chandpur,_Bangladesh-ff00ff?style=flat-square&labelColor=0d1117" /></td>
+      <td><img src="https://img.shields.io/badge/📍_Location-Chandpur,_Bangladesh-7b2cbf?style=flat-square&labelColor=0d1117" /></td>
       <td>&nbsp;&nbsp;</td>
-      <td><img src="https://img.shields.io/badge/💼_Work-AI_Contributor_@_Outlier_AI-00ffff?style=flat-square&labelColor=0d1117" /></td>
+      <td><img src="https://img.shields.io/badge/💼_Work-AI_Contributor_@_Outlier_AI-00b4d8?style=flat-square&labelColor=0d1117" /></td>
       <td>&nbsp;&nbsp;</td>
-      <td><img src="https://img.shields.io/badge/✅_Status-Available_for_Work-ff00ff?style=flat-square&labelColor=0d1117" /></td>
+      <td><img src="https://img.shields.io/badge/✅_Status-Available_for_Work-ff6f61?style=flat-square&labelColor=0d1117" /></td>
     </tr>
   </table>
 </div>
+
 
 <!-- About Me Section -->
 <h2 align="center">
@@ -77,7 +78,7 @@ const fahadshuvo33 = {
 
 <!-- Animated Skills -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,angular,nextjs,nodejs,express,django,fastapi,mongodb,postgres,redis,docker,aws,kubernetes,git,vscode,linux,bash,html,css,sass,tailwind,bootstrap,mysql,firebase,graphql,jest,webpack,vite&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,svelte,nodejs,django,fastapi,flask,mongodb,postgres,redis,docker,aws,git,vscode,linux,bash,html,css,tailwind,mysql,sqlite,firebase,graphql,postman,github,gitlab&theme=dark&perline=8" />
 </p>
 
 
