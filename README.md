@@ -89,84 +89,12 @@ const fahadshuvo33 = {
 
 ``` -->
 <p align="center">
-  <img src="https://i.ibb.co/YNX3fh1/hacker-terminal.gif" width="700"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=00ff00&text=Fahad%20Hossain%20%7C%20Hacker%20Console&fontColor=0d1117&fontSize=25&animation=fadeIn&fontAlignY=55" />
 </p>
 
-```bash
-$ ./profile --info fahadshuvo33
-
-{
-   "languages": ["Python", "JavaScript", "TypeScript", "Java"],
-   "frontend":  ["Vue.js (TS)", "React", "Svelte", "Tailwind"],
-   "backend":   ["Django", "FastAPI", "Node.js", "aiohttp"],
-   "database":  ["PostgreSQL", "MongoDB", "Redis"],
-   "devOps":    ["Docker", "Linux (Fedora)", "CI/CD", "Nginx"],
-   "tools":     ["Swagger", "GraphQL", "WebSockets"],
-
-   "currentlyWorking": [
-      "🎉 Mitnity",
-      "🤖 GitScope Bot",
-      "🛍️ Hal-Khata",
-      "🚚 Cp Express"
-   ],
-
-   "focus":      "🚀 Solo Startup Journey",
-   "funFact":    "🐧 Breaking Linux configs since forever",
-   "motto":      "✨ Keep it simple, keep it fun"
-}
-
-text
-
-
-👉 This gives the impression of a *system boot* with JSON printing in a neon terminal.  
-
----
-
-## 🔹 Option 2 — Command-Line Simulation (with hacker bg gif)
-```markdown
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="700"/>
-</p>
-
-```bash
-> whoami
-fahadshuvo33
-
-> skills --list
-Python · JavaScript · TypeScript · Java  
-Django · FastAPI · Vue · Svelte · Node.js  
-PostgreSQL · MongoDB · Redis · Docker · Nginx  
-
-> projects --active
-🎉 Mitnity | 🤖 GitScope Bot | 🛍️ Hal-Khata | 🚚 Cp Express  
-
-> motto
-"Keep it simple, keep it fun ✨"
-
-text
-
-
-👉 Looks like you're typing commands into a glowing green hacker console.  
-
----
-
-## 🔹 Option 3 — Futuristic Terminal Window Style
-```markdown
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=00ff00&text=Fahad%20Hossain%20%7C%20Hacker%20Console&fontColor=0d1117&fontSize=25&animation=fadeIn&fontAlignY=55" />
-</p>
-
-```json
-// profile export fahadshuvo33
-{
-  "code": ["Python", "JavaScript", "TypeScript", "Java"],
-  "stack": {
-    "frontend": ["Vue.js (TS)", "Svelte", "React", "Tailwind"],
-    "backend": ["Django", "FastAPI", "Node.js"]
-  },
-  "focus": "🚀 Startup as a solo dev",
-  "funFact": "Fixing Linux > Writing code 😅"
-}
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/main/terminal.png" alt="Matrix Terminal Profile" width="100%">
+</div>
 
 <br><br>
 <!-- Tech Stack -->
