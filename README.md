@@ -1,6 +1,9 @@
 <!-- Header Animation -->
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;𝔽𝕒𝕙𝕒𝕕 ℍ𝕠𝕤𝕤𝕒𝕚𝕟;🄵🄰🄷🄰🄳 🄷🄾🅂🅂🄰🄸🄽;Ƒąհąժ Ƕօʂʂąìղ;𝓕𝓪𝓱𝓪𝓭 𝓗𝓸𝓼𝓼𝓪𝓲𝓷;千卂卄卂ᗪ 卄ㄖ丂丂卂丨几" alt="Typing SVG" /> </a> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+realm" alt="Welcome" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;𝔽𝕒𝕙𝕒𝕕+ℍ𝕠𝕤𝕤𝕒𝕚𝕟;🄵🄰🄷🄰🄳+🄷🄾🅂🅂🄰🄸🄽;Ƒąհąժ+Ƕօʂʂąìղ;𝓕𝓪𝓱𝓪𝓭+𝓗𝓸𝓼𝓼𝓪𝓲𝓷;千卂卄卂ᗪ+卄ㄖ丂丂卂丨几" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+realm" alt="Welcome" />
+  </p>
 </div>
 
 <!-- Typing SVG -->
@@ -13,18 +16,18 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Stats Bar -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadshuvo33&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fahadshuvo33?label=Followers&style=for-the-badge&color=00ff00" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=for-the-badge&color=00ff00" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Ffahadshuvo33%2Ffahadshuvo33%2F" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Followers-1-blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Total%20Stars-8-yellow" alt="Stars" />
 </p>
 
-<!-- Professional Info Cards -->
+<!-- Location & Status -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/📍-Chandpur%2C%20Bangladesh-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117" alt="Location" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/💼-AI%20Contributor%20@%20Outlier%20AI-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Work" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/✅-Available%20for%20Work-00FF00?style=for-the-badge&labelColor=0d1117" alt="Status" /></a>
+  <img src="https://img.shields.io/badge/📍-Chandpur%2C%20Bangladesh-informational?style=flat&logo=openstreetmap&logoColor=white&color=11111b" alt="Location" />
+  <img src="https://img.shields.io/badge/💼-AI%20Contributor%20@%20Outlier%20AI-informational?style=flat&logoColor=white&color=11111b" alt="Work" />
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Work-success?style=flat&logoColor=white&color=11111b" alt="Hiring" />
 </p>
 
 <!-- About Me Section -->
