@@ -35,7 +35,7 @@
 
 
 <!-- About Me Section -->
-<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<p align="center">👨‍💻 『𝑨𝒃𝒐𝒖𝒕 𝑴𝒆』 👨‍💻</p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -78,20 +78,6 @@ const fahadshuvo33 = {
 
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=📊+GitHub+Stats+%26+Analytics+📊" />
-</p>
-<!-- Create a reusable pattern -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF00&text=📊%20GitHub%20Stats%20%26%20Analytics%20📊&height=45&fontSize=25&desc=&descAlignY=0&descAlign=50&fontAlignY=50&animation=twinkling" />
-</p>
-<!-- For each title, just change the text -->
-<p align="center">
-  <img src="https://svg.demolab.com/badge/📊%20GitHub%20Stats%20%26%20Analytics%20📊?size=30&duration=2000&color=00FF00" />
-</p>
-<div align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=⚡+GitHub+Stats+%26+Analytics+⚡" alt="Title" /></a>
-</div>
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/📊_GitHub_Stats_&_Analytics_📊-0d1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0d1117&color=0d1117" width="100%" height="40"/>
