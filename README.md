@@ -37,7 +37,7 @@
 <!-- About Me Section -->
 <h2 align="center" >✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩</h2>
   
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 
 <!-- ```javascript
 const fahadshuvo33 = {
@@ -62,34 +62,19 @@ const fahadshuvo33 = {
 };
 
 ``` -->
+<p align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯_FOCUS-Starting_My_Own_Startup-00ff00?style=for-the-badge&labelColor=0d1117" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+🚀;Django+%2B+Vue.js+Expert+💻;Building+My+Own+Startup+🌟;Linux+%26+Open+Source+Enthusiast+🐧" alt="Typing SVG" />
+  </a>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Tech Stack</h3>
-      <b>Languages:</b> Python • JavaScript • TypeScript • Java<br><br>
-      <b>Frontend:</b> Vue.js • Svelte • React • Tailwind CSS<br><br>
-      <b>Backend:</b> Django • FastAPI • Node.js • aiohttp<br><br>
-      <b>Database:</b> PostgreSQL • MongoDB • Redis
-    </td>
-    <td align="center" width="50%">
-      <h3>🚀 Current Projects</h3>
-      🎉 <b>Mitnity</b> - Event Management Platform<br><br>
-      🤖 <b>GitScope Bot</b> - Telegram Repo Explorer<br><br>
-      🛍️ <b>Hal-Khata</b> - AI Voice Store Management<br><br>
-      🚚 <b>Cp Express</b> - Delivery Service App
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡_Fun_Fact-I_spend_more_time_fixing_Linux_than_coding_😅-ff6f61?style=flat-square&labelColor=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/✨_Motto-Keep_it_simple,_keep_it_fun-00b4d8?style=flat-square&labelColor=0d1117" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadshuvo33&repo=mitnity&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadshuvo33&repo=gitscope-bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" />
+</p>
 
 <br><br>
 <!-- Tech Stack -->
@@ -172,19 +157,11 @@ const fahadshuvo33 = {
 </p>
 
 <!-- Footer -->
-markdown
-
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=400&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Always+open+to+collaborate;💬+Let's+connect+and+build!" alt="Typing SVG" />
-  
-
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░▀█▀░█░█░█▀█░█▀█░█░█░░░█░█░█▀█░█░█░█░░░
 ░░█░░█▀█░█▀█░█░█░█▀▄░░░░█░░█░█░█░█░▀░░░
 ░░▀░░▀░▀░▀░▀░▀░▀░▀░▀░░░▀▀▀░▀▀▀░▀▀▀░▀░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-text
-
 </div>
