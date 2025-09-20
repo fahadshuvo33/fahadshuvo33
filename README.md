@@ -36,7 +36,7 @@
 
 <!-- About Me Section -->
 <p align="center">
-  <font size="6">▀▄▀▄▀▄𝓐𝓫𝓸𝓾𝓽 𝓜𝓮▄▀▄▀▄▀</font>
+  <font size="8"✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩</font>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
