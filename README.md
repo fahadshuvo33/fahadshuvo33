@@ -36,9 +36,7 @@
 
 <!-- About Me Section -->
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -70,9 +68,7 @@ const fahadshuvo33 = {
 <br><br>
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <!-- Animated Skills -->
 <p align="center">
@@ -83,9 +79,7 @@ const fahadshuvo33 = {
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats & Analytics 📊</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <!-- Streak Stats -->
 <div align="center">
@@ -102,9 +96,7 @@ const fahadshuvo33 = {
 
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadshuvo33&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
@@ -112,9 +104,7 @@ const fahadshuvo33 = {
 
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <p align="center">
   <picture>
@@ -126,9 +116,7 @@ const fahadshuvo33 = {
 
 <!-- Trophy Section -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahadshuvo33&theme=matrix&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" />
@@ -136,9 +124,7 @@ const fahadshuvo33 = {
 
 <!-- Random Dev Quote -->
 <h2 align="center">💡 Random Dev Quote 💡</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
@@ -146,9 +132,7 @@ const fahadshuvo33 = {
 
 <!-- Connect Section -->
 <h2 align="center">🤝 Let's Connect 🤝</h2>
-<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/fahad-hossain-8b162b182/">
