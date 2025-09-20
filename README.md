@@ -1,13 +1,10 @@
 <!-- Header Animation -->
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&width=600&lines=Fahad+Hossain;𝔽𝕒𝕙𝕒𝕕+ℍ𝕠𝕤𝕤𝕒𝕚𝕟;🄵🄰🄷🄰🄳+🄷🄾🅂🅂🄰🄸🄽;Ƒąհąժ+Ƕօʂʂąìղ;𝓕𝓪𝓱𝓪𝓭+𝓗𝓸𝓼𝓼𝓪𝓲𝓷" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+digital+realm" alt="Welcome Animation" />
-</p>
-
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;𝔽𝕒𝕙𝕒𝕕+ℍ𝕠𝕤𝕤𝕒𝕚𝕟;🄵🄰🄷🄰🄳+🄷🄾🅂🅂🄰🄸🄽;Ƒąհąժ+Ƕօʂʂąìղ" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+realm" alt="Welcome" />
+  </p>
+</div>
 
 <!-- Typing SVG -->
 <p align="center">
