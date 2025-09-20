@@ -45,7 +45,6 @@
   <img src="https://raw.githubusercontent.com/fahadshuvo33/fahadshuvo33/main/terminal.jpg" alt="Matrix Terminal Profile" width="100%">
 </div>
 
-<br><br>
 <!-- Tech Stack -->
 <h2 align="center">✩░▒▓▆▅▃▂▁𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬▁▂▃▅▆▓▒░✩</h2>
   
