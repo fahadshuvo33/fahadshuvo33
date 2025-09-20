@@ -8,7 +8,7 @@
 
 <!-- Matrix Rain GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" height="5"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 </p>
 
 <!-- Profile Stats -->
@@ -35,19 +35,8 @@
 
 
 <!-- About Me Section -->
-<p align="center">
-  <font size="7"✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞1▁▂▃▅▆▓▒░✩</font>
-</p>
-<p align="center" style="font-size:40px;">
-  ✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞2▁▂▃▅▆▓▒░✩
-</p>
-### ▀▄▀▄▀▄𝓐𝓫𝓸𝓾𝓽 𝓜𝓮3▄▀▄▀▄▀
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=▀▄▀▄▀▄𝓐𝓫𝓸𝓾𝓽+𝓜𝓮4▄▀▄▀▄▀" alt="About Me">
-</p>
-<h1 align="center" style="border-bottom: none;">▀▄▀▄▀▄𝓐𝓫𝓸𝓾𝓽 𝓜𝓮5▄▀▄▀▄▀</h1>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+<h2 align="center" >✩░▒▓▆▅▃▂▁𝐀𝐛𝐨𝐮𝐭 𝐌𝐞▁▂▃▅▆▓▒░✩</h2>
+  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
@@ -77,8 +66,8 @@ const fahadshuvo33 = {
 
 <br><br>
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐬▁▂▃▅▆▓▒░✩</h2>
+  
 
 <!-- Animated Skills -->
 <p align="center">
@@ -93,7 +82,7 @@ const fahadshuvo33 = {
   <img src="https://img.shields.io/badge/📊_GitHub_Stats_&_Analytics_📊-0d1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0d1117&color=0d1117" width="100%" height="40"/>
   <br><br>
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -105,16 +94,16 @@ const fahadshuvo33 = {
 
 
 <!-- Activity Graph -->
-<h2 align="center">📈 Contribution Graph 📈</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐆𝐫𝐚𝐩𝐡▁▂▃▅▆▓▒░✩</h2>
+  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadshuvo33&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞▁▂▃▅▆▓▒░✩</h2>
+  
 
 <p align="center">
   <picture>
@@ -125,24 +114,24 @@ const fahadshuvo33 = {
 </p>
 
 <!-- Trophy Section -->
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐫𝐨𝐩𝐡𝐢𝐞𝐬▁▂▃▅▆▓▒░✩</h2>
+  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahadshuvo33&theme=matrix&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="Trophy" />
 </p>
 
 <!-- Random Dev Quote -->
-<h2 align="center">💡 Random Dev Quote 💡</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞▁▂▃▅▆▓▒░✩</h2>
+  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 <!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect 🤝</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<h2 align="center">✩░▒▓▆▅▃▂▁𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭▁▂▃▅▆▓▒░✩</h2>
+  
 
 <p align="center">
   <a href="https://linkedin.com/in/fahad-hossain-8b162b182/">
