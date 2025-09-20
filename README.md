@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;𝔽𝕒𝕙𝕒𝕕+ℍ𝕠𝕤𝕤𝕒𝕚𝕟;🄵🄰🄷🄰🄳+🄷🄾🅂🅂🄰🄸🄽;Ƒąհąժ+Ƕօʂʂąìղ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Fahad+Hossain;FAHAD HOSSAIN;F.A.H.A.D H.O.S.S.A.I.N" alt="Typing SVG" />
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+realm" alt="Welcome" />
   </p>
@@ -18,20 +18,24 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadshuvo33&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/fahadshuvo33?label=Followers&style=for-the-badge&color=00cc00&labelColor=0d1117" alt="Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=for-the-badge&color=009900&labelColor=0d1117" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=fahadshuvo33&color=ff00ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/fahadshuvo33?label=Followers&style=flat-square&color=00ffff&labelColor=0d1117" alt="Followers" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=flat-square&color=ff00ff&labelColor=0d1117" alt="Stars" />
 </p>
 
 <!-- Professional Status -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📍-Chandpur,_Bangladesh-00ff00?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/💼-AI_Contributor_@_Outlier_AI-00cc00?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/✅-Available_for_Work-00ff00?style=for-the-badge&labelColor=0d1117" />
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/📍_Location-Chandpur,_Bangladesh-ff00ff?style=flat-square&labelColor=0d1117" /></td>
+      <td>&nbsp;&nbsp;</td>
+      <td><img src="https://img.shields.io/badge/💼_Work-AI_Contributor_@_Outlier_AI-00ffff?style=flat-square&labelColor=0d1117" /></td>
+      <td>&nbsp;&nbsp;</td>
+      <td><img src="https://img.shields.io/badge/✅_Status-Available_for_Work-ff00ff?style=flat-square&labelColor=0d1117" /></td>
+    </tr>
+  </table>
 </div>
 
 <!-- About Me Section -->
