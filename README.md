@@ -8,7 +8,7 @@
 
 <!-- Matrix Rain GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" height="2" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 
 <!-- Profile Stats -->
@@ -71,7 +71,7 @@ const fahadshuvo33 = {
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="5" width="50%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2" width="50%">
 </p>
 
 <!-- Animated Skills -->
