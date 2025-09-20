@@ -2,9 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=𝔽𝕒𝕙𝕒𝕕%20ℍ𝕠𝕤𝕤𝕒𝕚𝕟&fontSize=45&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20digital%20realm&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;Django+%2B+Vue.js+Expert;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2px" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=🚀+Full+Stack+Developer;⚡+Django+Developer;🌟+Open+Source+Contributor;💡+Startup+Enthusiast;🐧+Linux+Enthusiast;🎌+Anime+%26+Coding+Lover;✨+Vibe+Coder" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2px" width="100%">
+</div>
 
 <!-- Matrix Rain GIF -->
 <p align="center">
