@@ -87,15 +87,14 @@ const fahadshuvo33 = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshuvo33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&langs_count=8" />
-</div>a
-
+</div>
+<br>
+<!-- Contribution Calendar -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff00/fahadshuvo33" alt="GitHub Contribution Calendar" />
+</div>
 <br>
 
-<!-- Stats Cards -->
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadshuvo33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshuvo33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00" />
-</div>
 
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Graph 📈</h2>
