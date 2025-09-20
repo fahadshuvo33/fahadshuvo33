@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/github/stars/fahadshuvo33?label=Stars&style=for-the-badge&color=00ff00" alt="Stars" />
 </p>
 
-<<<<<<< HEAD
 <!-- Professional Info Cards -->
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/📍-Chandpur%2C%20Bangladesh-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117" alt="Location" /></a>
@@ -28,15 +27,6 @@
   <a href="#"><img src="https://img.shields.io/badge/✅-Available%20for%20Work-00FF00?style=for-the-badge&labelColor=0d1117" alt="Status" /></a>
 </p>
 
-=======
-<!-- Status Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Chandpur,_Bangladesh-00ff00?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/💼_Current-AI_Contributor_@_Outlier_AI-00ff00?style=for-the-badge" alt="Current Work" />
-  <img src="https://img.shields.io/badge/🚀_Status-Available_for_Work-00ff00?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-</p>
-
->>>>>>> 3bd3e5731e7e40c47c57304794836341a8910123
 <!-- About Me Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
