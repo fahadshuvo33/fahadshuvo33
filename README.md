@@ -3,9 +3,9 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2px" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=🚀+Full+Stack+Developer;⚡+Django+Developer;🌟+Open+Source+Contributor;💡+Startup+Enthusiast;🐧+Linux+Enthusiast;🎌+Anime+%26+Coding+Lover;✨+Vibe+Coder" alt="Typing SVG" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2px" width="100%">
+  <a href="#">
+    <img height="40" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Full+Stack+Developer;Django+Developer;Open+Source+Contributor;Startup+Enthusiast;Linux+Enthusiast;Anime+%26+Coding+Lover;Vibe+Coder" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Matrix Rain GIF -->
